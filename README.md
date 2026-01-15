@@ -81,3 +81,8 @@ Repositório pessoal para testar ideias, bibliotecas, configurações, ferrament
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+Atual com problema
+<<>>
+Antiga
